@@ -7,4 +7,4 @@ https://www.mavenanalytics.io/blog/new-years-resolution-challenge?utm_source=lin
 * Records contain the date & time of the tweet, geographic location, full text, and category
 
 # Result
-![plot](/images/Capture.PNG)
+![test](/images/Capture.PNG)
